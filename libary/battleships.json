@@ -1,0 +1,392 @@
+{
+  "warship_types_introduction": {
+    "test2": "A warship or combatant ship is a naval ship that is built and primarily intended for naval warfare. Usually they belong to the armed forces of a state. As well as being armed, warships are designed to withstand damage and are usually faster and more manoeuvrable than merchant ships. Unlike a merchant ship, which carries cargo, a warship typically carries only weapons, ammunition and supplies for its crew. Warships usually belong to a navy, though they have also been operated by individuals, cooperatives and corporations.",
+    "warship_info": {
+      "img_intro": "https://www.cgmagonline.com/wp-content/uploads/2018/02/world-of-warships-blitz-review-12.jpg",
+      "info_general": "A warship or combatant ship is a naval ship that is built and primarily intended for naval warfare. Usually they belong to the armed forces of a state. As well as being armed, warships are designed to withstand damage and are usually faster and more manoeuvrable than merchant ships. Unlike a merchant ship, which carries cargo, a warship typically carries only weapons, ammunition and supplies for its crew. Warships usually belong to a navy, though they have also been operated by individuals, cooperatives and corporations."
+    },
+    "warships_types": [
+      {
+        "english_name": "Destroyer",
+        "photo2": "https://g7a6v6x7.rocketcdn.me/wp-content/uploads/2020/02/HII-Completes-Builders-Trials-of-Future-USS-Delbert-D.-Black.jpg",
+        "video": "https://www.youtube.com/embed/c4F2eIe2a8k",
+        "info": {
+          "resumen": "Naval terminology, a destroyer is a fast, maneuverable, long-endurance warship intended to escort larger vessels in a fleet, convoy or battle group and defend them against powerful short range attackers.",
+          "origen": "They were originally developed in the late 19th century by Fernando Villaamil for the Spanish Navy as a defense against torpedo boats",
+          "nombrecompleto": "Destructores"
+        },
+        "wars": {
+          "WorldWars": "During the 1920s and 1930s, destroyers were often deployed to areas of diplomatic tension or humanitarian disaster. British and American destroyers were common on the Chinese coast and rivers,even supplying landing parties to protect colonial interests.",
+          "postWW2": "Some World War II–vintage ships were modernized for anti-submarine warfare, and to extend their service lives, to avoid having to build (expensive) brand-new ships"
+        },
+        "operators": {
+          "note": "Some conventional destroyers were completed in the late 1940s and 1950s which built on wartime experience. These vessels were significantly larger than wartime ships and had fully automatic main guns, unit machinery, radar, sonar, and antisubmarine weapons such as the Squid mortar. Examples include the British Daring-class, US Forrest Sherman-class, and the Soviet Kotlin-class destroyers.",
+          "countrys": [
+            {
+              "country": "Argentina",
+              "text": "Argentine Navy Operates four Almirante Brown-class destroyers and a single modified Type 42 destroyer."
+            },
+            {
+              "country": "Australia",
+              "text": "Royal Australian Navy Operates three Hobart-class destroyer. They are the first Australian warships to use the AEGIS Combat System and are based on Spain's Álvaro de Bazán-class destroyers."
+            },
+            {
+              "country": "India",
+              "text": "Indian Navy Operates three Kolkata-class destroyers. These ships are armed with Brahmos missiles, which have a range of 300 kilometres (190 mi), in the anti-ship role. (Barak-8) system is installed to counter airborne threats."
+            }
+          ],
+          "preserved_ships": [
+            {
+              "pres_ship_name": "ARA Santisima Trinidad",
+              "pre_ship_text": "ARA Santisima Trinidad is currently being restored and will be preserved in Puerto Belgrano, Argentina."
+            },
+            {
+              "pres_ship_name": "HMASVampire",
+              "pre_ship_text": "HMAS Vampire (D11) in Sydney, New South Wales."
+            },
+            {
+              "pres_ship_name": "ChinesedestroyerAnshan",
+              "pre_ship_text": "Chinese destroyer Anshan (101) in Qingdao, China."
+            }
+          ]
+        }
+      },
+      {
+        "english_name": "Cruiser",
+        "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/07/US_Navy_100304-N-6006S-046_The_Ticonderoga-class_guided-missile_cruiser_USS_Bunker_Hill_%28CG_52%29_transits_in_the_Atlantic_Ocean.jpg",
+        "video": "https://www.youtube.com/embed/yZNMDsB8v0M",
+        "info": {
+          "resumen": "Cruiser is a type of warship. Modern cruisers are generally the largest ships in a fleet after aircraft carriers and amphibious assault ships, and can usually perform several roles.",
+          "origen": "In the middle of the 19th century, cruiser came to be a classification of the ships intended for cruising distant waters, for commerce raiding, and for scouting for the battle fleet. Cruisers came in a wide variety of sizes, from the medium-sized protected cruiser to large armored cruisers that were nearly as big (although not as powerful or as well-armored) as a pre-dreadnought battleship.",
+          "photo": {
+            "ruta": "/home/JAN/foto.png",
+            "text": "Que guapo"
+          },
+          "nombrecompleto": "Cruceros"
+        },
+        "wars": {
+          "WorldWars": "Cruisers participated in a number of surface engagements in the early part of World War II, along with escorting carrier and battleship groups throughout the war. In the later part of the war, Allied cruisers primarily provided anti-aircraft (AA) escort for carrier groups and performed shore bombardment. Japanese cruisers similarly escorted carrier and battleship groups in the later part of the war, notably in the disastrous Battle of the Philippine Sea and Battle of Leyte Gulf. The rise of air power during World War II dramatically changed the nature of naval combat. Even the fastest cruisers could not maneuver quickly enough to evade aerial attack, and aircraft now had torpedoes, allowing moderate-range standoff capabilities",
+          "postWW2": "The most recent Soviet/Russian rocket cruisers, the four Kirov-class battlecruisers, were built in the 1970s and 1980s. Two of the Kirov class are in refit until 2020, and one was scheduled to leave refit in 2018, with the Pyotr Velikiy in active service. Russia also operates three Slava-class cruisers and one Admiral Kuznetsov-class carrier which is officially designated as a cruiser."
+        },
+        "operators": {
+          "countrys": [
+            {
+              "country": "Greece",
+              "text": "- Hellenic Navy: The Greek armored cruiser Georgios Averof is kept in ceremonial commission as the flagship of the Hellenic Navy due to her historical significance."
+            },
+            {
+              "country": "Korea",
+              "text": "Republic of Korea Navy: 3 Sejong the Great-class destroyers. Despite their classification as a destroyer, many naval analysts feel they are in fact cruisers due to their size and armament, which are both greater than most of the world's destroyer classes"
+            }
+          ],
+          "preserved_ships": [
+            {
+              "pres_ship_name": "Georgios Averof",
+              "pre_ship_text": "Greek armored cruiser Georgios Averof in Athens, Greece; still active as the flagship of the Hellenic Navy"
+            },
+            {
+              "pres_ship_name": "BAP Almirante Grau",
+              "pre_ship_text": "BAP Almirante Grau will be preserved in Lima, Peru"
+            }
+          ]
+        }
+      },
+      {
+        "english_name": "Battleship",
+        "photo2": "https://i.pinimg.com/originals/48/16/56/481656ff61860cef3ed54c5904f02551.jpg",
+        "video": "https://www.youtube.com/embed/dipcvKXStRw",
+        "info": {
+          "resumen": "Battleship is a large armored warship with a main battery consisting of large caliber guns. During the late 19th and early 20th centuries the battleship was the most powerful type of warship, and a fleet centered around the battleship was part of the command of the sea doctrine for several decades.",
+          "origen": "The term battleship came into formal use in the late 1880s to describe a type of ironclad warship,[1] now referred to by historians as pre-dreadnought battleships. In 1906, the commissioning of HMS Dreadnought into the United Kingdom's Royal Navy heralded a revolution in battleship design.",
+          "photo": {
+            "ruta": "/home/JAN/foto.png",
+            "text": "Batt pic"
+          },
+          "nombrecompleto": "Battleships"
+        },
+        "wars": {
+          "WorldWars": "The Royal Navy, United States Navy, and Imperial Japanese Navy extensively upgraded and modernized their World War I–era battleships during the 1930s. Among the new features were an increased tower height and stability for the optical rangefinder equipment (for gunnery control), more armor (especially around turrets) to protect against plunging fire and aerial bombing, and additional anti-aircraft weapons.",
+          "postWW2": "Even during the Cold War, the psychological impact of a battleship was significant. In 1946, USS Missouri was dispatched to deliver the remains of the ambassador from Turkey, and her presence in Turkish and Greek waters staved off a possible Soviet thrust into the Balkan region."
+        }
+      },
+      {
+        "english_name": "Aircraft",
+        "photo2": "https://upload.wikimedia.org/wikipedia/commons/8/88/US_Navy_101206-N-5538K-395_The_aircraft_carrier_USS_George_Washington_%28CVN_76%29_transits_the_East_China_Sea.jpg",
+        "video": "https://www.youtube.com/embed/3J0to4yDB_U",
+        "info": {
+          "resumen": "Aircraft Carriers is a warship that serves as a seagoing airbase, equipped with a full-length flight deck and facilities for carrying, arming, deploying, and recovering aircraft.[1] Typically, it is the capital ship of a fleet, as it allows a naval force to project air power worldwide without depending on local bases for staging aircraft operations.",
+          "origen": "Carriers have evolved since their inception in the early twentieth century from wooden vessels used to deploy balloons to nuclear-powered warships that carry numerous fighters, strike aircraft, helicopters, and other types of aircraft.",
+          "nombrecompleto": "Aircrafts"
+        },
+        "wars": {
+          "WorldWars": "The aircraft carrier dramatically changed naval warfare in World War II, because air power was becoming a significant factor in warfare. The advent of aircraft as focal weapons was driven by the superior range, flexibility, and effectiveness of carrier-launched aircraft. They had greater range and precision than naval guns, making them highly effective.",
+          "postWW2": "Since World War II, aircraft carrier designs have increased in size to accommodate a steady increase in aircraft size. The large, modern Nimitz class of U.S.N. carriers has a displacement nearly four times that of the World War II–era USS Enterprise, yet its complement of aircraft is roughly the same—a consequence of the steadily increasing size and weight of individual military aircraft over the years. Today's aircraft carriers are so expensive that some nations which operate them risk significant economic and military impact if a carrier is lost."
+        },
+        "operators": {
+          "note": "The U.S. Navy has the largest fleet of carriers in the world, and currently has eleven supercarriers in service. The UK has two 65,000-tonne STOVL carriers in active service. China has two STOBAR carriers in service. The navies of France, India, and Russia each operate a single medium-sized fleet carrier. The U.S. also has nine similarly sized Amphibious Warfare Ships. There are three small light carriers in use capable of operating both fixed-wing aircraft and helicopters, Italy operates two, and Spain one.",
+          "countrys": [
+            {
+              "country": "USA",
+              "text": "-Nimitz class: ten 101,000-tonne, 333-meter-long (1,092 ft) fleet carriers, the first of which was commissioned in 1975. A Nimitz-class carrier is powered by two nuclear reactors providing steam to four steam turbines."
+            },
+            {
+              "country": "Spain",
+              "text": "Juan Carlos I: 27,000-tonne, specially designed multipurpose strategic projection ship which can operate as an amphibious assault ship and aircraft carrier."
+            },
+            {
+              "country": "UK",
+              "text": "Two 65,000-tonne[9] Queen Elizabeth-class STOVL carriers which will operate the F-35 Lightning II. The HMS Queen Elizabeth was commissioned in December 2017.[113] and Prince of Wales commissioned in December 2019."
+            }
+          ],
+          "preserved_ships": [
+            {
+              "pres_ship_name": "AUSS Intrepid (CV-11)",
+              "pre_ship_text": "USS Intrepid (CV-11) in New York City"
+            },
+            {
+              "pres_ship_name": "Minsk",
+              "pre_ship_text": "Soviet aircraft carrier Minsk in Nantong, China"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "tiers": [
+    {
+      "tier_number": "2",
+      "cost_level": "low",
+      "tier": [
+        {
+          "ship": {
+            "tier_rank": "tier02",
+            "tier_number": "2",
+            "type_class": "Destroyer",
+            "name": "Umikaze Destroyer",
+            "origin": "Japan",
+            "max_velocity": "61",
+            "image": {
+              "ruta": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09d9a4a7-cdcd-4d47-a0eb-4d8a2e585fb3/d7gjo6t-42688b0e-eeed-4b40-bc12-243995c22698.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8wOWQ5YTRhNy1jZGNkLTRkNDctYTBlYi00ZDhhMmU1ODVmYjMvZDdnam82dC00MjY4OGIwZS1lZWVkLTRiNDAtYmMxMi0yNDM5OTVjMjI2OTguanBnIn1dXX0.GWoVUEaTS3Z2EI2wfc_HbbvQg1chFiOld9AXkTkCqgY",
+              "text_img": "Umizake"
+            },
+            "service": {
+              "start": "1911",
+              "active": {
+                "id": "NO",
+                "retire": "1930",
+                "models_construidos": "2",
+                "models_retirados": "2"
+              }
+            },
+            "infoship": "The best protected cruiser of its time in the Russian Navy. This ship was based on a project that was notable for its overall well-balanced features and good protection of the ship's numerous main guns, some of which were mounted in turrets. During World War I, the ship was re-armed with more advanced artillery."
+          }
+        }
+      ]
+    },
+    {
+      "tier_number": "3",
+      "cost_level": "low",
+      "tier": [
+        {
+          "ship": {
+            "tier_rank": "tier03",
+            "tier_number": "3",
+            "type_class": "Cruiser",
+            "name": "Bogatyr Cruiser",
+            "origin": "U.S.S.R",
+            "max_velocity": "43",
+            "image": {
+              "ruta": "https://www.gamersdecide.com/sites/default/files/authors/u147237/world-of-warships-cruiser-dresden.jpg",
+              "text_img": "Bogatyr"
+            },
+            "service": {
+              "start": "1898–1907",
+              "active": {
+                "id": "NO",
+                "retire": "1902–1942",
+                "models_construidos": "4",
+                "models_retirados": "1"
+              }
+            },
+            "infoship": "The first Japanese destroyer designed to operate in high seas. When it was commissioned, Umikaze was one of the world's strongest destroyers and the fastest ship in the Imperial Japanese Navy. She carried very good torpedo and artillery armament for her time."
+          }
+        },
+        {
+          "ship": {
+            "tier_rank": "tier03",
+            "tier_number": "3",
+            "type_class": "Cruiser",
+            "tierr": "3",
+            "name": "Friant Cruiser",
+            "origin": "France",
+            "max_velocity": "43",
+            "service": {
+              "start": "1897",
+              "active": {
+                "id": "NO",
+                "retire": "1942",
+                "models_construidos": "2",
+                "models_retirados": "1"
+              }
+            },
+            "infoship": "The first Japanese destroyer designed to operate in high seas. When it was commissioned, Umikaze was one of the world's strongest destroyers and the fastest ship in the Imperial Japanese Navy. She carried very good torpedo and artillery armament for her time."
+          }
+        }
+      ]
+    },
+    {
+      "tier_number": "4",
+      "cost_level": "low/medium",
+      "tier": [
+        {
+          "ship": {
+            "tier_rank": "tier04",
+            "tier_number": "4",
+            "type_class": "Battleship",
+            "tierr": "4",
+            "name": "King Battleship",
+            "origin": "France",
+            "max_velocity": "48",
+            "image": {
+              "ruta": "https://www.gamersdecide.com/sites/default/files/authors/u147237/world-of-warships-destroyer-wickes.jpg",
+              "text_img": "Bogatyr"
+            },
+            "service": {
+              "start": "1913",
+              "active": {
+                "id": "NO",
+                "retire": "1944",
+                "models_construidos": "1",
+                "hundimiento": "9 June 1944, during Operation Neptune"
+              }
+            },
+            "infoship": "The first battleship-dreadnought built in France. The ship carried twelve 305 mm main guns and powerful secondary guns. Her sides were reinforced with vast armored areas. Her disadvantages included weak torpedo protection."
+          }
+        }
+      ]
+    },
+    {
+      "tier_number": "5",
+      "cost_level": "medium",
+      "tier": [
+        {
+          "ship": {
+            "tier_rank": "tier05",
+            "tier_number": "5",
+            "type_class": "Aircraft",
+            "name": "Aircraft carrier USS Bogue",
+            "origin": "USA",
+            "max_velocity": "33",
+            "image": {
+              "ruta": "https://www.gamersdecide.com/sites/default/files/authors/u147237/world-of-warships-cruiser-dresden.jpg",
+              "text_img": "Bogatyr"
+            },
+            "service": {
+              "start": "1942",
+              "active": {
+                "id": "NO",
+                "retire": "1960",
+                "models_construidos": "1",
+                "models_retirados": "1"
+              }
+            },
+            "infoship": "USS Bogue (CVE-9) was the lead ship in the Bogue class of escort carriers in the United States Navy during World War II."
+          }
+        },
+        {
+          "ship": {
+            "tier_rank": "tier05",
+            "tier_number": "5",
+            "type_class": "Battleship",
+            "name": "Queen Elizabeth",
+            "origin": "U.K.",
+            "max_velocity": "47",
+            "service": {
+              "start": "1897",
+              "active": {
+                "id": "SI",
+                "retire": "1942",
+                "models_construidos": "1",
+                "models_retirados": "1"
+              }
+            },
+            "infoship": "The first Japanese destroyer designed to operate in high seas. When it was commissioned, Umikaze was one of the world's strongest destroyers and the fastest ship in the Imperial Japanese Navy. She carried very good torpedo and artillery armament for her time."
+          }
+        },
+        {
+          "ship": {
+            "tier_rank": "tier05",
+            "tier_number": "5",
+            "type_class": "Battleship",
+            "name": "Gremyashchy",
+            "origin": "U.S.S.R.",
+            "max_velocity": "49",
+            "service": {
+              "start": "1897",
+              "active": {
+                "id": "SI",
+                "retire": "1958",
+                "models_construidos": "3",
+                "models_retirados": "1"
+              }
+            },
+            "infoship": "The first Japanese destroyer designed to operate in high seas. When it was commissioned, Umikaze was one of the world's strongest destroyers and the fastest ship in the Imperial Japanese Navy. She carried very good torpedo and artillery armament for her time."
+          }
+        }
+      ]
+    },
+    {
+      "tier_number": "6",
+      "cost_level": "medium",
+      "tier": [
+        {
+          "ship": {
+            "tier_rank": "tier06",
+            "tier_number": "6",
+            "type_class": "Cruiser",
+            "name": "Cleveland Cruiser",
+            "origin": "USA",
+            "max_velocity": "60",
+            "service": {
+              "start": "1942",
+              "active": {
+                "id": "NO",
+                "retire": "1959",
+                "models_construidos": "1",
+                "models_retirados": "1"
+              }
+            },
+            "infoship": "The most numerous class of cruisers in the world. Owing to rather large dimensions for her type, she boasted excellent armor and had a very powerful AA armament. Reasonable arrangement of the propulsion and elaborate design of the bottom improved the ship's survivability. Her well-balanced performance characteristics placed her among the most powerful light cruisers in the world."
+          }
+        }
+      ]
+    },
+    {
+      "tier_number": "8",
+      "cost_level": "high",
+      "tier": [
+        {
+          "ship": {
+            "tier_rank": "tier08",
+            "tier_number": "8",
+            "type_class": "Cruiser",
+            "name": "Bismarck Cruiser",
+            "origin": "Nazi Germany",
+            "max_velocity": "55",
+            "service": {
+              "start": "1939",
+              "active": {
+                "id": "NO",
+                "retire": "1941",
+                "models_construidos": "1",
+                "hundimiento": "Scuttled following incapacitating battle damage, 27 May 1941 in the North         Atlantic"
+              }
+            },
+            "infoship": "By the start of World War II, Bismarck was one of the mightiest battleships in the world, owing to her advanced gun fire control system and powerful artillery. Rugged construction — coupled with elaborate subdivision into compartments and a vast expanse of armor — ensured a high level of endurance."
+          }
+        }
+      ]
+    }
+  ]
+}
+
